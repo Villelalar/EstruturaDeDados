@@ -1,0 +1,28 @@
+package controller;
+
+import java.util.Scanner;
+
+public class CtrlPrograma {
+
+	/*public static int somaAteN(int n) {
+		if (n <= 0)
+			return 0;
+		return n + somaAteN(n - 1);
+	}*/
+	
+	/*public static String inverter(String s) {
+		if(s.length() <= 1) return s; //base 
+		return s.charAt(s.length()-1) + inverter(s.substring(0, s.length()-1));
+	}*/
+	
+	/*public static long fatorial(int n) {
+		if (n == 0) return 1;
+		return n*fatorial(n-1);
+	}*/
+	/*public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Qual o seu número?");
+		int n = sc.nextInt();
+		System.out.println(fatorial(n));
+	}*/
+}
